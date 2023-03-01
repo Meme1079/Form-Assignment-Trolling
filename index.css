@@ -1,0 +1,55 @@
+html {
+     font-family: BlinkMacSystemFont;
+     overflow-x: hidden;
+}
+
+body { 
+     position: relative; 
+     left: 5cm !important; 
+}
+header { 
+     margin-bottom: 1.7cm; 
+}
+input, select { 
+     padding: 8px !important; width: 5cm; 
+}
+ul {
+     display: flex;
+     list-style: none;
+     padding-left: 0cm;
+}
+
+
+#title {
+     font-size: 45px !important;
+     font-weight: 600;
+     margin-bottom: -20px;
+}
+#descy {
+     font-size: 20px !important;
+     color: rgb(100, 100, 100);
+}
+
+
+.form-sections {
+     margin-top: 30px;
+}
+.label-title {
+     display: block;
+     font-size: 16.5px;
+     font-weight: 550;
+     margin-bottom: 15px;
+}
+.input-field {
+     display: inline-block;
+}
+.input-field label {
+     margin-top: 10px;
+     display: block;
+     font-size: 13px; 
+     color: rgb(100, 100, 100); 
+}
+
+.select-width-birthday { width: 2.75cm; }
+.select-width-address { width: 7.78cm; }
+#select-width-gender { width: 5.5cm; }
